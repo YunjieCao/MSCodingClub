@@ -1,8 +1,16 @@
 # MSCodingClub
 Java codes for coding club weekly problem set.
 
+## Week28: Dynamic Programming
+|Number       |     Question                    |
+| :-----------|     :----------:                | 
+|392          |     Is Subsequence              |
+|746          |     Min Cost Climbing Stairs    |
+|1025         |     Divisor Game                |
+
+
 Week28:
-    392 判断子序列 
+    392 判断子序列
     746 使用最小花费爬楼梯  
     521 除数博弈 
     面试题 08.01 三步问题 
