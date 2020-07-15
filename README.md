@@ -28,3 +28,17 @@
 |880            |       [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/)|
 |85             |       [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|
 |726            |       [Number of Atoms](https://leetcode.com/problems/number-of-atoms/)|
+
+### Week30: Sort
+|Number         |       Question                    |
+| :-----------  |       :----------:                | 
+|1403            |       [Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/)              |
+|1491            |       [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)  |
+|1502           |       [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)               |
+|75           |       [Sort colors](https://leetcode.com/problems/sort-colors/)|
+|148           |       [Sort list](https://leetcode.com/problems/sort-list/) |
+|274            |       [H-Index ](https://leetcode.com/problems/h-index)|
+|324            |       [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii)|
+|524            |       [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|
+|164             |       [Maximum Gap ](https://leetcode.com/problems/maximum-gap)|
+|315            |       [Count of Smaller Numbers After Self ](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|
