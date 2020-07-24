@@ -42,3 +42,18 @@
 |524            |       [Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting)|
 |164             |       [Maximum Gap ](https://leetcode.com/problems/maximum-gap)|
 |315            |       [Count of Smaller Numbers After Self ](https://leetcode.com/problems/count-of-smaller-numbers-after-self)|
+
+
+### Week31: Bit manipulation
+|Number         |       Question                    |
+| :-----------  |       :----------:                | 
+|169            |       [Majority Element](https://leetcode.com/problems/majority-element)              |
+|461            |       [Hamming Distance](https://leetcode.com/problems/hamming-distance)  |
+|187           |       [Repeated DNA Sequences ](https://leetcode.com/problems/repeated-dna-sequences)               |
+|201           |       [Bitwise AND of Numbers Range ](https://leetcode.com/problems/bitwise-and-of-numbers-range)|
+|1297           |       [Maximum Number of Occurrences of a Substring ](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring) |
+|1442            |       [Count Triplets That Can Form Two Arrays of Equal XOR ](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)|
+|1178           |       [Number of Valid Words for Each Puzzle ](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|
+|1255            |       [Maximum Score Words Formed by Letters ](https://leetcode.com/problems/maximum-score-words-formed-by-letters)|
+|Q1             |       [Maximum Num ](https://leetcode-cn.com/problems/maximum-lcci/)|
+|Q2            |       [Missing number](https://leetcode-cn.com/problems/missing-number-lcci/)|
